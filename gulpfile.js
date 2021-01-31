@@ -1,6 +1,6 @@
 /*
  src 参照元を指定
- dest 出力先を指定
+ dest 出力先を指定git commit -m "first commit" 
  watch ファイル監視
  series (直列処理) と parallel (並列処理)
 */
